@@ -21,12 +21,12 @@
 
 Question   Chart
 ========   =====
-1. `./questions_1_to_6.png` (top left)
-2. `./questions_1_to_6.png` (top middle)
-3. `./questions_1_to_6.png` (top right)
-4. `./questions_1_to_6.png` (bottom right)
-5. `./questions_1_to_6.png` (bottom left and middle)
-6. `./questions_1_to_6.png` (bottom left and middle)
+1. [./questions_1_to_6.png](https://github.com/data-visualisation-group-three/visualisations/blob/master/questions_1_to_6.png) (top left)
+2. [./questions_1_to_6.png](https://github.com/data-visualisation-group-three/visualisations/blob/master/questions_1_to_6.png) (top middle)
+3. [./questions_1_to_6.png](https://github.com/data-visualisation-group-three/visualisations/blob/master/questions_1_to_6.png) (top right)
+4. [./questions_1_to_6.png](https://github.com/data-visualisation-group-three/visualisations/blob/master/questions_1_to_6.png) (bottom right)
+5. [./questions_1_to_6.png](https://github.com/data-visualisation-group-three/visualisations/blob/master/questions_1_to_6.png) (bottom left and middle)
+6. [./questions_1_to_6.png](https://github.com/data-visualisation-group-three/visualisations/blob/master/questions_1_to_6.png) (bottom left and middle)
 7. `./questions_7_and_8.png` (bottom)
 8. `./questions_7_and_8.png` (top)
   
