@@ -15,6 +15,7 @@
 
 * [questions_1_to_6](https://github.com/data-visualisation-group-three/visualisations/blob/master/questions_1_to_6.png)
 * [questions_7_and_8](https://github.com/data-visualisation-group-three/visualisations/blob/master/questions_7_and_8.png)
+* [additional](https://github.com/data-visualisation-group-three/visualisations/blob/master/additional.png)
 
 ---
 
