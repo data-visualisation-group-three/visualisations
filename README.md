@@ -4,6 +4,20 @@
 
 ---
 
+## Contents
+
+* Visualisations
+* Investigative questions and visualisation
+
+---
+
+## Visualisations
+
+* [questions_1_to_6.png](https://github.com/data-visualisation-group-three/visualisations/blob/master/questions_1_to_6.png)
+* [questions_7_and_8](https://github.com/data-visualisation-group-three/visualisations/blob/master/questions_7_and_8.png)
+
+---
+
 ## Investigative questions and visualisations
 
 **Question 1**. How do the USA and Switzerland compare regarding the average number of homicides per 100,000 persons from 1970-2017? *For further infomation see visualisation [questions_1_to_6.png](https://github.com/data-visualisation-group-three/visualisations/blob/master/questions_1_to_6.png) (top left).*
