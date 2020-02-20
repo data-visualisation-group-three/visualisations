@@ -30,11 +30,11 @@
 
 ---
 
-**Question 7**. How does the USA compare to other countries regarding the average number of firearms per 100 persons from 1970-2017? For further information see 
+**Question 7**. How does the USA compare to other countries regarding the average number of firearms per 100 persons from 1970-2017? *For further information see [questions_7_and_8](https://github.com/data-visualisation-group-three/visualisations/blob/master/questions_7_and_8.png).*
 
 ---
 
-**Question 8**. How does the USA compare to other countries regarding the average number of gun deaths per 100,000 persons from 1970-2017? For further information see 
+**Question 8**. How does the USA compare to other countries regarding the average number of gun deaths per 100,000 persons from 1970-2017? *For further information see [questions_7_and_8](https://github.com/data-visualisation-group-three/visualisations/blob/master/questions_7_and_8.png).*
 
 ---
   
