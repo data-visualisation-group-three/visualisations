@@ -1,6 +1,6 @@
 # Data Visualisation: Group Three: Visualisations
 
-> Initial visualisations for the Group Three's Data Visualisation project.
+> Visualisations per investigative question for Group Three's Data Visualisation project at the University of Edinburgh.
 
 ---
 
